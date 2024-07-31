@@ -5,6 +5,6 @@ type: page
 kind: page
 ---
 
-# Subsdcribe to the newsletter 🚀🚀
+# Contact Form 📱📱
 
-{{< subscribe >}}
+{{< contact >}}

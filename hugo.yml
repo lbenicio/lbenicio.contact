@@ -31,7 +31,8 @@ menus:
       weight: 40
       pre: fas fa-comment-alt
 params:
-  ContactURL: https://api.mail.lbenicio.dev
+  ContactURL: https://api.contact.lbenicio.dev/api/email
+  ContactToken: QngrWT5xKjAtOHYmYn01PHk+Y0EsI2deWiVYaC9Sb0M4VWE6NHtDeSJGV2lgPnlDeTt8QiJWIlBtcnBgdF0lfDF+WXoiLU8heixCQT8lem4kPCdvKDptaUBRaC8sclM+QUVxJnldV0w0aUcjc3JHLiFiRnFYSVhZKHU6XmRHI1tEKDpbXm9INkZ6LnpiMkV2OntyRjdeQjRPNT9fVEc7VCNKfHU5IUV1eTc7QGlbJUdlP1FMR0ZvWlhyXidoYzpZJS1jLSp1WHprQmdkaDFAcWVOVWN1IWR6UmBUMHdpUn4pKntEbm9dYyhqd3t5JUlzTnJ3a29BXUM3MjEwKHlGWWc+R0ll
   ContactName: Leonardo Benicio
   ContactEmail: hello@lbenicio.dev
   ContactMethod: POST
